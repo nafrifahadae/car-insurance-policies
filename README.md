@@ -1,6 +1,6 @@
 # car-insurance-policies
 
-Car Insurance Analysis Dashboard 🚗💲
+<h2>Car Insurance Analysis Dashboard 🚗💲</h2>
 
 This repository contains a personal passion project exploring trends and insights within car insurance data. The project uses Power BI to visualise key metrics and patterns across policies, claims, and customer demographics.
 
